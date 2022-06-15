@@ -20,3 +20,6 @@ Restart the services
 systemctl restart prosody jicofo
   
 /usr/share/jitsi-meet/body.html work whith mod_moderation_end.lua
+  
+  systemctl restart prosody.service
+systemctl restart jicofo.service
