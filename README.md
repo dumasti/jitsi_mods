@@ -26,7 +26,7 @@ systemctl restart prosody jicofo
 ```
 
 ## mod_token_moderation_grand.lua
-  Allow give grant moderator 
+  allows to give moderator rights
   
 ### Installation
 
