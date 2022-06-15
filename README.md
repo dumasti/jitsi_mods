@@ -68,5 +68,5 @@ Restart the services
 ```bash
 systemctl restart prosody jicofo
 ```
-  
-/usr/share/jitsi-meet/body.html work whith mod_moderation_end.lua
+Add body.html to redirect on any page when meeting is ended
+/usr/share/jitsi-meet/body.html 
