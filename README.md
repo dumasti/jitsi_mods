@@ -11,7 +11,8 @@ Default enable lobby
 /etc/prosody/conf.d/<fqdn>.cfg.lua
 
 ```bash
-Component "conference.<fqdn>" "muc"
+VirtualHost "<fqdn>"
+  ...
   modules_enabled = {
     ...
     ...
