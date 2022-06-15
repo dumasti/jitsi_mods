@@ -69,4 +69,5 @@ Restart the services
 systemctl restart prosody jicofo
 ```
 Add body.html to redirect on any page when meeting is ended
+  
   /usr/share/jitsi-meet/body.html 
